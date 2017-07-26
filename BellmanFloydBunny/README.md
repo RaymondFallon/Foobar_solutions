@@ -1,4 +1,4 @@
-  The following was a challenge problem from Google:
+  The following was a challenge problem from Google Foobar, a Google recruiting tool:
 
   Running with Bunnies
   ====================
